@@ -1,4 +1,4 @@
-### Howdy, my name is Bennett
+### Howdy, my name is Bennett. I'm currently a CS student at the University of South Carolina. 
 
 ## Projects
 * [Tower Defense Tutorial](https://github.com/unit220/FirstTowerDefenseGame) - A rudimentary tower defense game to get me familiar with using Unity
