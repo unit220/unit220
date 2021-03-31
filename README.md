@@ -5,7 +5,7 @@
 
 ## Languages
 https://img.shields.io/badge/
-[![](https://img.shields.io/badge/-C%23-#A8B9CC?logo=c&style=for-the-badge)](https://dotnet.microsoft.com/learn/csharp) 
+[![](https://img.shields.io/badge/-C%23-#A8B9CC?logo=c&style=for-the-badge)](https://dotnet.microsoft.com/learn/c) 
 [![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=for-the-badge)](https://dotnet.microsoft.com/learn/csharp) 
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com) 
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
