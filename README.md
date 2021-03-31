@@ -1,4 +1,4 @@
-### Hi there, my name is Bennett
+### Howdy, my name is Bennett
 
 ## Projects
 * [Tower Defense Tutorial](https://github.com/unit220/FirstTowerDefenseGame) - A rudimentary tower defense game to get me familiar with using Unity
