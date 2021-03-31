@@ -1,7 +1,7 @@
 ### Hi there, my name is Bennett
 
 ## Projects
-* [No H2O required](https://github.com/Zark247/NoH20Required) - Alcoholic beverage tracking app (Ionic)
+* [Tower Defense Tutorial](https://github.com/unit220/FirstTowerDefenseGame) - A rudimentary tower defense game to get me familiar with using Unity
 
 ## Languages
 [![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=for-the-badge)](https://dotnet.microsoft.com/learn/csharp) 
