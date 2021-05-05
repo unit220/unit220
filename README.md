@@ -2,7 +2,7 @@
 
 ## Projects
 * [Astrovibe Attackpod](https://github.com/SCCapstone/GreedyGuppyGames) - A tower defense game made for my USC Capstone Project
-* [Party Up!](https://github.com/SllimRevilo/PartyUp) - A mobile app to help gaming communities organize event times
+* [PartyUp!](https://github.com/SllimRevilo/PartyUp) - A mobile app to help gaming communities organize event times
 * [Tower Defense Tutorial](https://github.com/unit220/FirstTowerDefenseGame) - A rudimentary tower defense game to get me familiar with using Unity
 
 ## Languages
