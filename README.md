@@ -7,10 +7,10 @@
 
 ## Languages
 [![](https://img.shields.io/badge/-C-black?logo=C&style=for-the-badge)](https://www.learn-c.org/)
+[![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) 
 [![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=for-the-badge)](https://dotnet.microsoft.com/learn/csharp) 
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com) 
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
-[![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com) 
 [![](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge)](https://www.java.com) 
 ## Platforms
 [![](https://img.shields.io/badge/-Unity-000000?logo=unity&style=for-the-badge)](https://unity.com)
