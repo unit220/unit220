@@ -1,4 +1,4 @@
-### Howdy, my name is Bennett. I'm currently a CS student at the University of South Carolina. I enjoy making games and solving problems. 
+### Howdy, my name is Bennett. I enjoy making games and solving problems.
 
 ## Projects
 * [Astrovibe Attackpod](https://sccapstone.github.io/GreedyGuppyGames/) - A tower defense game made for my USC Capstone Project
