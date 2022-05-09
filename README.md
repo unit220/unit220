@@ -3,7 +3,7 @@
 ## Projects
 * [Astrovibe Attackpod](https://sccapstone.github.io/GreedyGuppyGames/) - A tower defense game made for my USC Capstone Project
 * [PartyUp!](https://github.com/SllimRevilo/PartyUp) - A mobile app to help gaming communities organize event times
-* [Snake Game](https://github.com/unit220/Snake-Game) - A renditon of the classic game "Snake" but with some extra features like enemies and powerups
+* [Snake Game](https://github.com/unit220/RestUp) - A minecraft plugin that lets player pass the day by resting at a campfire
 * [Tower Defense Tutorial](https://github.com/unit220/FirstTowerDefenseGame) - A rudimentary tower defense game to get me familiar with using Unity
 
 ## Languages
